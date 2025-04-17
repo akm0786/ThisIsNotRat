@@ -1,7 +1,1 @@
-mss
-opencv-python
-pyttsx3
-telebot
-clipboard
-secure-delete
-pyAesCrypt
+mss opencv-python pyttsx3 python-telegram-bot clipboard secure-delete pyAesCrypt psutil pyautogui
